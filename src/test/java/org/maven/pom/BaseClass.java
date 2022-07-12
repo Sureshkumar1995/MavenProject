@@ -227,7 +227,9 @@ public class BaseClass {
 		workbook.write(output);	
 		
 }
-	
+	public void printA() {
+		System.out.println("A");
+	}
 	
 	
 	
