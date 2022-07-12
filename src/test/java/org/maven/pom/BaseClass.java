@@ -231,7 +231,10 @@ public class BaseClass {
 		System.out.println("A");
 	}
 	
-	
+	public void printB() {
+		System.out.println("B");
+	}
+
 	
 	
 	
