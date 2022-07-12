@@ -228,7 +228,9 @@ public class BaseClass {
 		
 }
 	
-	
+	public void printB() {
+		System.out.println("B");
+	}
 	
 	
 	
